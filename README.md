@@ -1,2 +1,2 @@
 # PlayPal
-mod3 group consultancy project
+Mod 3 Group Consultancy Project
