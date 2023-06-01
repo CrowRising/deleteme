@@ -42,3 +42,4 @@ Don't forget to give the project a star! Thanks again!
 
 ## Planning Tools
 - [Miro Board](https://miro.com/app/board/uXjVMDHct-E=/)
+- [GitHub Project Board](https://github.com/users/CrowRising/projects/5)
